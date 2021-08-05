@@ -1,0 +1,7 @@
+Executable : /home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/armeabi-v7a
+mathlib1
+jvmArgs : 
+

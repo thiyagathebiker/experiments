@@ -1,0 +1,3 @@
+ninja: Entering directory `/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86_64'
+[1/2] Building CXX object CMakeFiles/mathlib1.dir/mynativefile.cpp.o
+[2/2] Linking CXX shared library /home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/build/intermediates/cmake/debug/obj/x86_64/libmathlib1.so

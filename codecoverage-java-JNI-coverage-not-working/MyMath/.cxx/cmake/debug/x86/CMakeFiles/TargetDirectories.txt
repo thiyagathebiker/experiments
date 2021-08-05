@@ -1,0 +1,3 @@
+/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86/CMakeFiles/mathlib1.dir

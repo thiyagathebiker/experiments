@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mathlib1-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/x86_64",
+        "mathlib1"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "mathlib1",
+      "output": "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/build/intermediates/cmake/debug/obj/x86_64/libmathlib1.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

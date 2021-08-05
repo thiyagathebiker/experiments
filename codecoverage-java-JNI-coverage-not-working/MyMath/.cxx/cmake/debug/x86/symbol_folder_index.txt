@@ -1,0 +1,1 @@
+/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/build/intermediates/cmake/debug/obj/x86

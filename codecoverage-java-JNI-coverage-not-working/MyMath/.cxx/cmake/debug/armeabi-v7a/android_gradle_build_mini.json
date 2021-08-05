@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mathlib1-Debug-armeabi-v7a": {
+      "artifactName": "mathlib1",
+      "buildCommandComponents": [
+        "/home/thiyagu/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/.cxx/cmake/debug/armeabi-v7a",
+        "mathlib1"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/build/intermediates/cmake/debug/obj/armeabi-v7a/libmathlib1.so",
+      "runtimeFiles": []
+    }
+  }
+}

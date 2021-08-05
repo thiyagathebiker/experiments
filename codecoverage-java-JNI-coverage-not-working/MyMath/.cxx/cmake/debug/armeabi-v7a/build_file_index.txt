@@ -1,0 +1,1 @@
+/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/src/main/jni/CMakeLists.txt

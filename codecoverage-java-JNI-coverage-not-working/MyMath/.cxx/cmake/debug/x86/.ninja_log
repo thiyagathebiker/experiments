@@ -1,0 +1,6 @@
+# ninja log v5
+0	4701	1628199277	CMakeFiles/mathlib1.dir/mynativefile.cpp.o	9b1d5c8d2ca4a96f
+4702	4753	1628199277	/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/build/intermediates/cmake/debug/obj/x86/libmathlib1.so	d2396620e42e6fa4
+0	2	0	clean	79fa6370153719e9
+1	491	1628199449	CMakeFiles/mathlib1.dir/mynativefile.cpp.o	9b1d5c8d2ca4a96f
+492	755	1628199449	/home/thiyagu/AndroidStudioProjects/codecoverage/MyMath/build/intermediates/cmake/debug/obj/x86/libmathlib1.so	d2396620e42e6fa4

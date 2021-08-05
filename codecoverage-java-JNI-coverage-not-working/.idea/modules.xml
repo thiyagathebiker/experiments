@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibraryUnitTestExample.iml" filepath="$PROJECT_DIR$/.idea/modules/LibraryUnitTestExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mathlub/LibraryUnitTestExample.MyMath.iml" filepath="$PROJECT_DIR$/.idea/modules/mathlub/LibraryUnitTestExample.MyMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LibraryUnitTestExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LibraryUnitTestExample.app.iml" />
+    </modules>
+  </component>
+</project>
