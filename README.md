@@ -17,7 +17,7 @@ D:\temp\experiments\codecoverage-java-coverage-working> cd ..
 D:\temp\experiments> ls
 
 
-    Directory: D:\temp\experiments
+Directory: D:\temp\experiments
 
 
 Mode                 LastWriteTime         Length Name
