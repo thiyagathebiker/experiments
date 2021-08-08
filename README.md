@@ -7,7 +7,8 @@
 
 
 
-PS D:\temp\experiments\codecoverage-java-coverage-working> ~~.\gradlew :mathlub:jacocoTestReport~~
+```PS D:\temp\experiments\codecoverage-java-coverage-working> .\gradlew :mathlub:jacocoTestReport
+```
 Starting a Gradle Daemon, 1 stopped Daemon could not be reused, use --status for details
 
 BUILD SUCCESSFUL in 41s
@@ -26,7 +27,8 @@ d-----        08-08-2021  06:45 AM                codecoverage-java-JNI-coverage
 
 
 PS D:\temp\experiments> cd .\codecoverage-java-JNI-coverage-not-working\
-PS D:\temp\experiments\codecoverage-java-JNI-coverage-not-working> .\gradlew :mathlub:jacocoTestReport
+```PS D:\temp\experiments\codecoverage-java-JNI-coverage-not-working> .\gradlew :mathlub:jacocoTestReport
+```
 
 > Configure project :MyMath
 WARNING:: Mapping new ns http://schemas.android.com/repository/android/common/02 to old ns http://schemas.android.com/repository/android/common/01
