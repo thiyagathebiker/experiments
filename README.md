@@ -7,7 +7,7 @@
 
 
 
-PS D:\temp\experiments\codecoverage-java-coverage-working> .\gradlew :mathlub:jacocoTestReport
+PS D:\temp\experiments\codecoverage-java-coverage-working> ~~.\gradlew :mathlub:jacocoTestReport~~
 Starting a Gradle Daemon, 1 stopped Daemon could not be reused, use --status for details
 
 BUILD SUCCESSFUL in 41s
